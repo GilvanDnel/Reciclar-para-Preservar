@@ -2,15 +2,16 @@
 
 Projeto web educativo sobre reciclagem e preservacao ambiental, com conteudo estatico e interacoes simples.
 
+## Acesse
+
+https://gilvandnel.github.io/Reciclar-para-Preservar/
+
 ## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
-
-## Como visualizar
-
-Abra o arquivo `Exercicios/public/index.html` em um navegador.
+- GitHub Pages
 
 ## Estrutura
 
@@ -19,7 +20,7 @@ Abra o arquivo `Exercicios/public/index.html` em um navegador.
 - `Exercicios/public/scripts/main.js`: interacoes
 - `Exercicios/public/image/`: imagens usadas no projeto
 
-## Proximos ajustes
+## Possiveis melhorias
 
 - Diferenciar este repositorio de `Reciclagem-de-Lixo`.
 - Adicionar prints ou link publicado.
